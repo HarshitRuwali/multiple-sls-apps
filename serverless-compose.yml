@@ -1,0 +1,10 @@
+services:
+ 
+  node1:
+    path: node1
+ 
+  node2:
+    path: node2
+  
+  node3:
+    path: node3
